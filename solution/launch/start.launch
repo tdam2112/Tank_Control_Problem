@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="solution" type="solution" name="solution_node" output="screen" />
+</launch>
